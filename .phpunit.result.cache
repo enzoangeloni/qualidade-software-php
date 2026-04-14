@@ -1,1 +1,1 @@
-{"version":2,"defects":{"MediaTest::testCalcularMediaSimples":7,"MediaTest::testCalcularMediaComZero":7},"times":{"MediaTest::testCalcularMediaSimples":0.032,"MediaTest::testCalcularMediaComZero":0}}
+{"version":2,"defects":{"MediaTest::testCalcularMediaSimples":7,"MediaTest::testCalcularMediaComZero":7},"times":{"MediaTest::testCalcularMediaSimples":0.014,"MediaTest::testCalcularMediaComZero":0}}
